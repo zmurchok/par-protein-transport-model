@@ -22,3 +22,7 @@ This repository contains code for our PAR protein transport paper. Link to follo
   - DiffusionEstimation.ipynb makes Supplemental Figure 6
   - Model_ParamSweep.ipynb makes Supplemental Figures 7--10
   - Fig3-4.ipynb also makes Supplemental Figure 11
+
+## Running
+
+Some notebooks require directories '/data' and '/figures' to be placed in main working directory. After running these notebooks, data and parameter sets will be saved in these folders in a pickle format (.pkl). This allows for easy plotting adjustments since the stochastic simulations will not be re-run if the data exists.
