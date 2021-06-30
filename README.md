@@ -1,5 +1,5 @@
 # par-protein-transport-model
-This repository contains code for our PAR protein transport paper. Link to follow once a preprint is posted.
+This repository contains code for our PAR protein transport paper: <a href="https://doi.org/10.1101/2021.06.28.450200">https://doi.org/10.1101/2021.06.28.450200</a>
 
 ## Authors
 
